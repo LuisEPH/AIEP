@@ -1,0 +1,28 @@
+h1,h2{
+    color: rgb(104, 104, 255);
+}
+body img{
+    border-style:ridge;
+    padding: 5px;
+
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Geneva, Tahoma, sans-serif;
+}
+th{
+    background-color: rgb(104, 104, 255);
+    color: white;
+    padding: 10px;
+}
+.first{
+    color: blue;
+    background-color: rgb(141, 200, 200);
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+td{
+    padding-left: 15px;
+}
